@@ -25,3 +25,11 @@ li {
   margin-bottom: 8px;
   border-radius: 4px;
 }
+
+.vacio {
+  border: 1px dashed var(--borde);
+  padding: 14px;
+  border-radius: 4px;
+  color: #7c8b99;
+  text-align: center;
+}
