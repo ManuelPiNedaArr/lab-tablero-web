@@ -1,0 +1,27 @@
+:root {
+  --borde: #d1d5db;
+  --acento: #2563eb;
+}
+
+body {
+  font-family: sans-serif;
+  max-width: 400px;
+  margin: 20px auto;
+  padding: 0 16px;
+}
+
+h1 {
+  color: #1e293b;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  padding: 8px 12px;
+  border: 1px solid var(--borde);
+  margin-bottom: 8px;
+  border-radius: 4px;
+}
